@@ -1,0 +1,7 @@
+Task-1:
+===========================
+         int   float   bool    str
+int       X     YES    YES     YES
+float    YES     X     YES     YES
+bool     NO     NO      X      NO
+str    YES&NO  YES&NO  YES      X
